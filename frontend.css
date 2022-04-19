@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+dd, dt {
+    margin-left: 0;
+}
+
+dt {
+    margin-top: 0.5em;
+}
+
+dd {
+    font-weight: bold;
+}
+
+.fout {
+    color: red;
+}
